@@ -1,0 +1,4 @@
+fov: 200          # tamaño del cuadrado de captura (px)
+speed: 0.5        # multiplicador de corrección
+hsv_lower: [140, 111, 160]
+hsv_upper: [148, 154, 194]
