@@ -2,4 +2,5 @@ opencv-python
 mss
 numpy
 pydirectinput
+pywin32
 PyYAML
